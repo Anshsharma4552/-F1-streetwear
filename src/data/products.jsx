@@ -76,7 +76,7 @@ export const products = [
     name: "Retro Racer Tee",
     price: 89,
     category: "vintage",
-    image: "https://images.pexels.com/photos/1112080/pexels-photo-1112080.jpeg?auto=compress&cs=tinysrgb&w=500",
+    image: "https://images.footballfanatics.com/scuderia-ferrari/scuderia-ferrari-2025-team-t-shirt_ss5_p-202358995+u-9dzx0ffwxs494gsvtivx+v-xzxnreuwod8yigkfboza.jpg?_hv=2&w=532",
     description: "Throw it back to the golden era of racing. Retro graphics meet modern fit in this timeless piece."
   },
   {
