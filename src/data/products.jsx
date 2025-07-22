@@ -131,7 +131,7 @@ export const categories = [
     id: 'vintage',
     name: 'Vintage Collection',
     description: 'Classic racing heritage meets modern style',
-    isActive: false,
+    isActive: true,
     image: 'https://www.vintagedrip.in/cdn/shop/collections/vintagerj1.png?v=1732048866&width=750'
   },
   {
