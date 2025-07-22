@@ -33,7 +33,7 @@ const Home = () => {
       <section className="relative overflow-hidden bg-gradient-to-br from-red-50 via-white to-orange-50 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900">
         <div className="w-full">
           <motion.div variants={itemVariants} className="w-full">
-            <img src="https://miro.medium.com/v2/resize:fit:1400/0*iN93ZO_yOdRyt296.gif" alt="F1 Logo" className="w-full h-85 object-cover" />
+            <img src="https://miro.medium.com/v2/resize:fit:1400/0*iN93ZO_yOdRyt296.gif" alt="F1 Logo" className="w-full h-85 object-cover rounded-2xl" />
           </motion.div>
         </div>
 
